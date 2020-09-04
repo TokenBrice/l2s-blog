@@ -1,0 +1,12 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Learn2Swap: ParaSwap's Blog"
+theme = "hugo-theme-novela"
+pygmentsstyle = 'monokai'
+paginate = 6
+[social]
+  twitter = "https://twitter.com/paraswap"
+  github = "https://github.com/paraswap"
+  linkedin = "https://www.linkedin.com/company/paraswap/"
+[taxonomies]
+  author = "authors"
