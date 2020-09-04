@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://zealous-bell-855ea2.netlify.app"
 languageCode = "en-us"
 title = "Learn2Swap: ParaSwap's Blog"
 theme = "hugo-theme-novela"
